@@ -116,4 +116,4 @@ Parallel Scavenge 收集器的老年代版本，并行收集器，吞吐量优�
 
 ### 八、Java 有了 GC 同样会出现内存泄漏
 
-[内存泄漏](https://www.notion.so/4cea87e0-5939-4e08-92ac-631a7828bd24)
+[内存泄漏](./内存泄漏.md)
